@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmKame
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Information Technology
+- 🌱 I’m currently learning AWS services
 
 <!---
 OmKame/OmKame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
